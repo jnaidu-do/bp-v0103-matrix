@@ -1,0 +1,6 @@
+{
+  "name": "bp103-node",
+  "private": true,
+  "engines": { "node": "24.22.2" },
+  "scripts": { "start": "node server.js" }
+}
